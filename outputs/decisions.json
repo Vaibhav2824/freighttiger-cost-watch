@@ -1,0 +1,688 @@
+[
+  {
+    "route": "Ahmedabad-Mumbai",
+    "week_of": "2025-01-20",
+    "flagged_by": [
+      "own",
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N002",
+        "similarity": 0.5582,
+        "rejected_because": null
+      },
+      {
+        "note_id": "N003",
+        "similarity": 0.4709,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-01-20"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3681,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.2954,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2562,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Chennai-Bangalore",
+    "week_of": "2025-02-24",
+    "flagged_by": [
+      "own",
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N001",
+        "similarity": 0.5592,
+        "rejected_because": null
+      },
+      {
+        "note_id": "N009",
+        "similarity": 0.4646,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N003",
+        "similarity": 0.4516,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-02-24"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3681,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3135,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.249,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Chennai-Bangalore",
+    "week_of": "2025-03-03",
+    "flagged_by": [
+      "own",
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N001",
+        "similarity": 0.5598,
+        "rejected_because": null
+      },
+      {
+        "note_id": "N009",
+        "similarity": 0.4678,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N003",
+        "similarity": 0.4584,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-03-03"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3731,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.319,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2412,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Chennai-Bangalore",
+    "week_of": "2025-03-10",
+    "flagged_by": [
+      "own",
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N001",
+        "similarity": 0.5606,
+        "rejected_because": "its stated period (2025-02-24 to 2025-03-08) does not cover the week of 2025-03-10"
+      },
+      {
+        "note_id": "N009",
+        "similarity": 0.4673,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N003",
+        "similarity": 0.4596,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-03-10"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3697,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3149,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.241,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Chennai-Bangalore",
+    "week_of": "2025-03-17",
+    "flagged_by": [
+      "own",
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N001",
+        "similarity": 0.5557,
+        "rejected_because": "its stated period (2025-02-24 to 2025-03-08) does not cover the week of 2025-03-17"
+      },
+      {
+        "note_id": "N009",
+        "similarity": 0.4655,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N003",
+        "similarity": 0.4596,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-03-17"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3727,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3195,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2443,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Delhi-Jaipur",
+    "week_of": "2024-11-11",
+    "flagged_by": [
+      "own",
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N007",
+        "similarity": 0.5453,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N003",
+        "similarity": 0.4512,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2024-11-11"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3858,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3177,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2582,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Delhi-Jaipur",
+    "week_of": "2024-11-18",
+    "flagged_by": [
+      "own"
+    ],
+    "candidates": [
+      {
+        "note_id": "N007",
+        "similarity": 0.5464,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N003",
+        "similarity": 0.454,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2024-11-18"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3831,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3177,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2639,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Delhi",
+    "week_of": "2025-05-12",
+    "flagged_by": [
+      "own"
+    ],
+    "candidates": [
+      {
+        "note_id": "N005",
+        "similarity": 0.5631,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N003",
+        "similarity": 0.482,
+        "rejected_because": "it accounts for up to about 7%, but cost rose +11.6% vs this route's past average"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3744,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3375,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2374,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-06-23",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4786,
+        "rejected_because": "it affects all routes equally, so it cannot explain why this route costs more than similar routes"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3826,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3399,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.223,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-09-15",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4914,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-09-15"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3829,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3409,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2169,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-10-06",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4876,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-10-06"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3801,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.339,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.221,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-10-20",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4864,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-10-20"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3794,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3407,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2219,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-10-27",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4925,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-10-27"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3853,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3426,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2295,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-11-03",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4924,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-11-03"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3847,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3463,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2211,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-11-17",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4925,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-11-17"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3821,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.345,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2232,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-11-24",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4853,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-11-24"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3795,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3392,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2226,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-12-01",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4752,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-12-01"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3734,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3345,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2114,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-12-08",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4835,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-12-08"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.379,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3425,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2208,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-12-15",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4848,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-12-15"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3776,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3392,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2144,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  },
+  {
+    "route": "Mumbai-Pune",
+    "week_of": "2025-12-22",
+    "flagged_by": [
+      "peer"
+    ],
+    "candidates": [
+      {
+        "note_id": "N003",
+        "similarity": 0.4785,
+        "rejected_because": "it reports a lasting change from 2025-05-05 with no end date, and such a change is only credited for 8 weeks (after that the route's own baseline already includes it), so it cannot explain a rise in the week of 2025-12-22"
+      },
+      {
+        "note_id": "N006",
+        "similarity": 0.3768,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N010",
+        "similarity": 0.3383,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      },
+      {
+        "note_id": "N004",
+        "similarity": 0.2164,
+        "rejected_because": "it does not describe a cost increase on these routes"
+      }
+    ],
+    "reason_source": "llm",
+    "validator_problems": []
+  }
+]

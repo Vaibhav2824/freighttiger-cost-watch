@@ -1,0 +1,8 @@
+# API key: the code reads GROQ_API_KEY, or this local file. Never commit it.
+groq api key.txt
+
+# generated locally
+.llm_cache/
+__pycache__/
+.pytest_cache/
+.coverage

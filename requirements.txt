@@ -1,0 +1,8 @@
+# Exact versions this was built and verified with (Python 3.14).
+pandas==2.3.3
+numpy==1.26.4
+faiss-cpu==1.13.2
+pytest==9.1.1
+pytest-cov==7.1.0
+# LLM: Groq openai/gpt-oss-120b over stdlib HTTP (no SDK). Key in GROQ_API_KEY or 'groq api key.txt'.
+# Embeddings (local): Ollama 0.40.x with `ollama pull all-minilm` -> digest 1b226e2802db (all-MiniLM-L6-v2).

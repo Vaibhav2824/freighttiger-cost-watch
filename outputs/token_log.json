@@ -1,0 +1,28 @@
+{
+  "chat_model": "openai/gpt-oss-120b",
+  "embed_model": "all-minilm",
+  "model_versions": {
+    "openai/gpt-oss-120b": "Groq system_fingerprint ['fp_4727af4560', 'fp_87b3c396db']",
+    "all-minilm": "1b226e2802db"
+  },
+  "generation_options": {
+    "temperature": 0,
+    "seed": 42,
+    "reasoning_effort": "low"
+  },
+  "chat_calls": 2,
+  "input_tokens": 4307,
+  "output_tokens": 2051,
+  "embed_calls": 21,
+  "embed_input_tokens": 743,
+  "cache_hits": 0,
+  "cost_usd_actual": 0.0,
+  "reference_rate_usd_per_m_tokens": [
+    0.15,
+    0.6
+  ],
+  "cost_usd_at_reference_rate": 0.001877,
+  "flagged_rows": 20,
+  "reasons_from_llm": 20,
+  "reasons_from_template": 0
+}

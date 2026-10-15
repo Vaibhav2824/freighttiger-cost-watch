@@ -1,0 +1,21 @@
+route,week_of,flagged,matched_note_id,why
+Ahmedabad-Mumbai,2025-01-20,No (justified),N002,Festival surcharge note for this corridor and exactly this week.
+Chennai-Bangalore,2025-02-24,No (justified),N001,Flood Feb 24 to Mar 8 on this route.
+Chennai-Bangalore,2025-03-03,No (justified),N001,Week Mar 3-9 overlaps the flood window (ends Mar 8).
+Chennai-Bangalore,2025-03-10,Yes,,Flood window ended Mar 8; N009 says the route returned to normal. Trap: neither justifies.
+Chennai-Bangalore,2025-03-17,Yes,,Same as above; N009 (dated this week) reports normal conditions not a rise.
+Delhi-Jaipur,2024-11-11,Yes,,Only Delhi-Jaipur note is N007 (May 2024 road improvement) - wrong time and wrong direction.
+Delhi-Jaipur,2024-11-18,Yes,,As above.
+Mumbai-Delhi,2025-05-12,Yes,,N003 diesel applies to this route and week but explains ~5-7%; observed +11.6% exceeds it beyond tolerance.
+Mumbai-Pune,2025-06-23,Yes,,Flagged vs peers; N003 hit all routes equally so cannot explain a gap vs similar routes.
+Mumbai-Pune,2025-09-15,Yes,,Matches the sample row. N006 (stable demand) is not a reason; N003 window long past.
+Mumbai-Pune,2025-10-06,Yes,,Sustained creep vs peers; no note.
+Mumbai-Pune,2025-10-20,Yes,,Sustained creep vs peers; no note.
+Mumbai-Pune,2025-10-27,Yes,,N010 (dated this week) says no rate change. Trap.
+Mumbai-Pune,2025-11-03,Yes,,Sustained creep vs peers; no note.
+Mumbai-Pune,2025-11-17,Yes,,Sustained creep vs peers; no note.
+Mumbai-Pune,2025-11-24,Yes,,Sustained creep vs peers; no note.
+Mumbai-Pune,2025-12-01,Yes,,Sustained creep vs peers; no note.
+Mumbai-Pune,2025-12-08,Yes,,Sustained creep vs peers; no note.
+Mumbai-Pune,2025-12-15,Yes,,Sustained creep vs peers; no note.
+Mumbai-Pune,2025-12-22,Yes,,Sustained creep vs peers; no note.

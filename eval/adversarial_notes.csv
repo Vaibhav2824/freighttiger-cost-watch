@@ -1,0 +1,21 @@
+note_id,set,date,applies_to,note,raises_cost,effect_start,effect_end,why
+A01,probe,2025-04-07,Mumbai-Pune,"A transporter strike on the Mumbai-Pune expressway lasted two weeks, raising freight rates sharply.",True,2025-04-07,2025-04-20,Stated duration: two weeks from the note date.
+A02,probe,2025-04-07,All Routes,"Despite a hike in diesel prices, transporters held freight rates steady this month.",False,,,Cost driver mentioned but rates held steady.
+A03,probe,2025-04-07,Delhi-Jaipur,Analysts expect freight costs on Delhi-Jaipur to rise next quarter due to new tolls.,False,,,Forecast: nothing has gone up yet.
+A04,probe,2025-04-07,Mumbai-Delhi,The temporary monsoon surcharge on the Mumbai-Delhi corridor was withdrawn this week.,False,,,Surcharge removed: a decrease.
+A05,probe,2025-08-04,Kolkata-Bhubaneswar,"Cyclone warnings forced trucks to wait at depots for the week, adding detention charges on the Kolkata-Bhubaneswar run.",True,2025-08-04,2025-08-10,One week of extra charges.
+A06,probe,2025-04-07,All Routes,About 70% of fleets reported GPS outages this week; freight rates were unchanged.,False,,,Unrelated percentage; rates unchanged.
+A07,probe,2025-10-01,Mumbai-Pune,Toll charges on the Mumbai-Pune expressway were raised by 3% from October 1.,True,2025-10-01,2025-11-25,Ongoing with no end date: 8-week policy window. No end date may be invented.
+A08,holdout,2025-02-03,Bangalore-Chennai,"Truck availability on the Bangalore-Chennai corridor tightened from Feb 3 to Feb 16, and transporters raised rates.",True,2025-02-03,2025-02-16,Explicit date range.
+A09,holdout,2025-06-02,All Routes,"Diesel prices fell by about 4% this week, easing transport costs.",False,,,Decrease.
+A10,holdout,2025-03-03,Delhi-Chennai,A proposed toll increase on the Delhi-Chennai highway is under consideration by the ministry.,False,,,Proposal only.
+A11,holdout,2025-07-07,Ahmedabad-Mumbai,"Heavy rains on the Ahmedabad-Mumbai highway were reported, but freight rates were largely unaffected.",False,,,Disruption without cost effect.
+A12,holdout,2025-01-06,All Routes,Transporters across the country raised base freight rates by 4% starting this week.,True,2025-01-06,2025-03-02,Ongoing: 8-week policy window.
+A13,holdout,2025-11-10,Delhi-Jaipur,A wedding-season surcharge applied on the Delhi-Jaipur route for three weeks.,True,2025-11-10,2025-11-30,Stated duration: three weeks.
+A14,holdout,2024-12-09,Mumbai-Delhi,"Last year's fog disruptions on Mumbai-Delhi had pushed costs up, but no such issues were reported this winter.",False,,,Past increase mentioned only as contrast; nothing this time.
+A15,probe,2025-09-08,Kolkata-Bhubaneswar,A two-day port strike on Sep 9-10 caused congestion and higher trucking costs on the Kolkata-Bhubaneswar route.,True,2025-09-09,2025-09-10,Explicit short range written as 'Sep 9-10'.
+A16,probe,2025-05-19,Chennai-Bangalore,Toll rates on the Chennai-Bangalore expressway were revised upward this week.,True,2025-05-19,2025-07-13,Ongoing: 8-week policy window.
+A17,holdout,2025-08-18,All Routes,Freight demand stayed normal; carriers reported no change in pricing.,False,,,No change.
+A18,holdout,2025-12-01,Mumbai-Pune,Rates on Mumbai-Pune could rise if the expressway closure goes ahead.,False,,,Conditional future.
+A19,holdout,2025-04-14,Delhi-Jaipur,"Road resurfacing on Delhi-Jaipur finished, and trip times returned to normal.",False,,,Improvement.
+A20,holdout,2025-10-20,Ahmedabad-Mumbai,A Diwali festival-week surcharge was applied by transporters on Ahmedabad-Mumbai.,True,2025-10-20,2025-10-26,Festival week.
